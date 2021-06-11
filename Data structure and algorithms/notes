@@ -1,0 +1,5 @@
+Data structures:
+it allows you to manage data
+
+Ex: Arrays, Objects, Maps, Sets
+1,2,3 {name: "John", age: 21}; new Map(map.set('a', 'b')) new Set(set.add(1))
